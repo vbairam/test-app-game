@@ -1,0 +1,37 @@
+.wrapper {
+  margin: 5%;
+  display: block;
+  justify-content: center;
+}
+
+.wrapper iframe {
+  width: 100%;
+  height: 400px;
+  border: 0;
+  border-radius: 10px;
+}
+
+.saveButton {
+  width: 100%;
+  display: block;
+  height: 50px !important;
+  margin: 25px 0 25px 0;
+  border-radius: 10px !important;
+}
+
+.spiner {
+  margin: 20% 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+h1 {
+  margin-top: 5px !important;
+}
+
+.stepper {
+  display: flex !important;
+  flex-direction: row !important;
+}
